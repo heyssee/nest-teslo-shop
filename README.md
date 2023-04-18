@@ -24,7 +24,12 @@ yarn install
 ``` 
 docker-composer up -d
 ```
-6. Levantar el ambiente.
+6.  Ejecutar Seed.
+```
+http://localhost:3000/api/seed/
+```
+
+7. Levantar el ambiente.
 ```
 yarn start:dev
 ```
